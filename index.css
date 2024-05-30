@@ -31,9 +31,7 @@ h2 {
 }
 
 p {
-        font-weight: bolder;
-        stroke          : purple;
-        stroke-width    : .5px;
+        text-shadow: 2px 2px purple;
 }
 
 button {
